@@ -1,0 +1,10 @@
+{
+  "name": "AIUXDOJO Starter Kit",
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:20",
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": ["bradlc.vscode-tailwindcss", "esbenp.prettier-vscode"]
+    }
+  }
+}
