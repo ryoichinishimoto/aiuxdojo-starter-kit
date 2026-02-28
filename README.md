@@ -7,7 +7,7 @@
 コピーした後の「自分のリポジトリ」画面で、下のボタンを押してください。
 これにより、あなたのVercelアカウントにアプリがデプロイされます。
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ryoichinishimoto/aiuxdojo-starter-kit&repository-name=aiuxdojo-my-app)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ryoichinishimoto/aiuxdojo-starter-kit)
 
 ### 3. 開発を始める（Codespaces）
 自分のリポジトリの **[Code]** ボタン ➔ **[Codespaces]** タブ ➔ **[Create codespace on main]** をクリック！
